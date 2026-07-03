@@ -28,5 +28,6 @@ If a cool idea pops into my head. Chances are, I'd plan it and build it.
         </a>
       </p>
     </div>
-  </foreignObject/>
+  </foreignObject>
 </svg>
+
